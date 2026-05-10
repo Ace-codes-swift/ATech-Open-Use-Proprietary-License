@@ -33,6 +33,24 @@ The AOUPL is versioned. Each update will:
 - be documented in commit history and/or release tags
 - preserve backwards compatibility where possible
 
+## Contributions
+
+Contributions to improve clarity, structure, and legal precision of the AOUPL are welcome.
+
+You are encouraged to:
+
+- Suggest changes via Issues
+- Propose edits via Pull Requests
+- Discuss improvements to wording, structure, or edge cases
+
+However, please note:
+
+- Only officially accepted changes will be incorporated into released license versions
+- The maintained LICENSE file in this repository remains the authoritative version of the AOUPL
+- Contributions may be modified, rewritten, or declined to preserve legal consistency
+
+By contributing, you agree that your submissions may be incorporated into the license under the same terms as the AOUPL.
+
 ## Usage of This Repository
 
 This repository does **not** contain software for end-user consumption.
